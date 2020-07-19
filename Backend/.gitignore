@@ -1,0 +1,10 @@
+.env
+Pipfile
+Pipfile.lock
+NCSApp/__pycache__/
+Nibblites/__pycache__/
+Nibblites/migrations/__pycache__/
+Accounts/__pycache__/
+Projects/__pycache__/
+static/
+media/
