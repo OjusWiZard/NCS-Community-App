@@ -1,4 +1,5 @@
 .env
+.vscode
 Pipfile
 Pipfile.lock
 NCSApp/__pycache__/
