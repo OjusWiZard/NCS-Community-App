@@ -1,6 +1,7 @@
 .env
 Pipfile
 Pipfile.lock
+.vscode
 NCSApp/__pycache__/
 Nibblites/__pycache__/
 Nibblites/migrations/__pycache__/
